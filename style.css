@@ -11,7 +11,7 @@ html {
 
 body {
         background-color: #fff;
-        color: #000;
+        color: #606060;
         margin: 0;
         padding: 0;
         font-size: 1rem;
@@ -21,7 +21,7 @@ body {
 }
 
 h1, h2, h3 {
-        color: #FF63A3;
+        color: #000;
         line-height: 1;
         margin: 0;
 }
@@ -42,12 +42,12 @@ h3 {
 }
 
 a {
-        color: #00C0FF;
+        color: #000;
         text-decoration: none;
 }
 
 a:hover {
-        color: #00C0FF;
+        color: #000;
 }
         
 p {
@@ -58,19 +58,6 @@ p {
         width: 640px;
         margin: 0 auto;
         padding: 20px;
-}
-
-#features .item {
-        padding: 4em 0 1em 0;
-}
-
-#features .header {
-        padding: 0.5em 0;
-}
-
-#features img {
-        vertical-align: middle;
-        margin-right: 0.6em;
 }
 
 #features h3, #pricing h3, #downloads h3 {
@@ -85,9 +72,9 @@ p {
 
 #features {
         padding: 5em 0;
-        background-color: #f3f6ff;
+        background-color: #f6f6f6;
         border-width: 1px 0 1px 0;
-        border-color: #c2d1fd;
+        border-color: #eee;
         border-style: solid;
 }
 
@@ -97,20 +84,16 @@ p {
 
 #downloads {
         padding: 5em 0;
-        background-color: #fef5f9;
+        background-color: #f6f6f6;
         border-width: 1px 0 1px 0;
-        border-color: #fdc2ed;
+        border-color: #eee;
         border-style: solid;
-}
-
-#presskit {
-        padding: 5em 0;
 }
 
 #footer {
         font-size: 0.8em;
         color: #fff;
-        background-color: #343a40;
+        background-color: #555;
         padding: 5em 0;
         text-align: center;
 }
